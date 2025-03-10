@@ -1,0 +1,105 @@
+2025-03-10 20:47:30,336 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:34,347 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:37,304 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:37,304 - WARNING - Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})
+2025-03-10 20:47:37,422 - WARNING - Suspicious TTL from 52.86.73.80: 242 (expected: {64, 128, 255})
+2025-03-10 20:47:37,425 - WARNING - Suspicious TCP window from 52.86.73.80: 26883 (expected: {5840, 8192, 65535})
+2025-03-10 20:47:38,155 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:39,156 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:41,164 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:42,348 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:45,172 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:53,184 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:55,899 - INFO - SYN packet detected from 192.168.1.105
+2025-03-10 20:47:56,902 - WARNING - Potential scan detected from 192.168.1.105: 11 SYN packets in 60 seconds
+2025-03-10 20:47:57,469 - WARNING - Potential scan detected from 192.168.1.105: 12 SYN packets in 60 seconds
+2025-03-10 20:47:57,469 - WARNING - Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})
+2025-03-10 20:47:57,656 - WARNING - Suspicious TTL from 44.240.52.117: 237 (expected: {64, 128, 255})
+2025-03-10 20:47:57,656 - WARNING - Suspicious TCP window from 44.240.52.117: 26883 (expected: {5840, 8192, 65535})
+2025-03-10 20:47:58,904 - WARNING - Potential scan detected from 192.168.1.105: 13 SYN packets in 60 seconds
+2025-03-10 20:48:02,910 - WARNING - Potential scan detected from 192.168.1.105: 14 SYN packets in 60 seconds
+2025-03-10 20:48:04,329 - WARNING - Potential scan detected from 192.168.1.105: 15 SYN packets in 60 seconds
+2025-03-10 20:48:05,344 - WARNING - Potential scan detected from 192.168.1.105: 16 SYN packets in 60 seconds
+2025-03-10 20:48:07,347 - WARNING - Potential scan detected from 192.168.1.105: 17 SYN packets in 60 seconds
+2025-03-10 20:48:10,921 - WARNING - Potential scan detected from 192.168.1.105: 18 SYN packets in 60 seconds
+2025-03-10 20:48:11,354 - WARNING - Potential scan detected from 192.168.1.105: 19 SYN packets in 60 seconds
+2025-03-10 20:48:19,356 - WARNING - Potential scan detected from 192.168.1.105: 20 SYN packets in 60 seconds
+2025-03-10 20:48:22,104 - WARNING - Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds
+2025-03-10 20:48:23,114 - WARNING - Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds
+2025-03-10 20:48:25,116 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:48:29,117 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:48:32,261 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:48:33,274 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:48:35,288 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:48:37,123 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:48:39,296 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:48:47,299 - WARNING - Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds
+2025-03-10 20:48:49,520 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:48:50,534 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:48:52,538 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:48:56,541 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:48:58,360 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:48:59,361 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:01,363 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:49:04,549 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:05,366 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:13,368 - WARNING - Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds
+2025-03-10 20:49:16,849 - WARNING - Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds
+2025-03-10 20:49:17,862 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:19,868 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:23,880 - WARNING - Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds
+2025-03-10 20:49:27,053 - WARNING - Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds
+2025-03-10 20:49:28,054 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:30,060 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:31,894 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:49:34,064 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:41,297 - WARNING - Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds
+2025-03-10 20:49:41,297 - WARNING - Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})
+2025-03-10 20:49:41,411 - WARNING - Suspicious TTL from 44.213.153.77: 242 (expected: {64, 128, 255})
+2025-03-10 20:49:41,412 - WARNING - Suspicious TCP window from 44.213.153.77: 26883 (expected: {5840, 8192, 65535})
+2025-03-10 20:49:42,075 - WARNING - Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds
+2025-03-10 20:49:45,694 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:46,694 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:49:48,696 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:49:52,466 - WARNING - Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})
+2025-03-10 20:49:52,467 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:49:52,469 - WARNING - Suspicious TTL from 18.165.171.92: 248 (expected: {64, 128, 255})
+2025-03-10 20:49:52,493 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:49:52,493 - WARNING - Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})
+2025-03-10 20:49:52,494 - WARNING - Suspicious TTL from 18.165.171.46: 248 (expected: {64, 128, 255})
+2025-03-10 20:49:52,702 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:49:54,203 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:49:55,217 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:49:57,219 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:00,716 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:50:01,224 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:05,868 - WARNING - Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})
+2025-03-10 20:50:05,868 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:50:05,870 - WARNING - Suspicious TTL from 18.165.171.104: 248 (expected: {64, 128, 255})
+2025-03-10 20:50:09,230 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:50:13,601 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:50:14,614 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:16,620 - WARNING - Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds
+2025-03-10 20:50:20,625 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:50:22,292 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:23,294 - WARNING - Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds
+2025-03-10 20:50:25,297 - WARNING - Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds
+2025-03-10 20:50:28,628 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:29,306 - WARNING - Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds
+2025-03-10 20:50:37,312 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:50:40,799 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:41,814 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:43,814 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:47,820 - WARNING - Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds
+2025-03-10 20:50:48,453 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:49,466 - WARNING - Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds
+2025-03-10 20:50:51,471 - WARNING - Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds
+2025-03-10 20:50:55,474 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:50:55,829 - WARNING - Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds
+2025-03-10 20:51:03,486 - WARNING - Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds
+2025-03-10 20:51:09,636 - WARNING - Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds
+2025-03-10 20:51:10,650 - WARNING - Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds
+2025-03-10 20:51:12,652 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds
+2025-03-10 20:51:16,658 - WARNING - Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds
+2025-03-10 20:51:17,430 - WARNING - Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds
+2025-03-10 20:51:18,430 - WARNING - Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds

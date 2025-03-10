@@ -1,0 +1,20 @@
+{
+    "scan_detection": {
+        "syn_threshold": 10,
+        "timeframe_seconds": 60
+    },
+    "os_fingerprinting": {
+        "known_ttl_values": [64, 128, 255],
+        "known_tcp_window_sizes": [5840, 8192, 65535],
+        "false_positive_threshold": 5
+    },
+    "firewall": {
+        "enable_automation": true,
+        "default_block_duration": 3600,
+        "whitelist": ["127.0.0.1", "192.168.1.1"]
+    },
+    "logging": {
+        "level": "DEBUG",
+        "console_level": "INFO"
+    }
+}

@@ -1,9 +1,9 @@
+# modules/logging_module.py
 import logging
 import json
 import datetime
 
 
-# Custom formatter for JSON logs
 class JSONFormatter(logging.Formatter):
     def format(self, record):
         log_record = {
@@ -18,7 +18,7 @@ def setup_logger():
     logger = logging.getLogger("Praetorian")
     logger.setLevel(logging.DEBUG)
 
-    # Plaintext formatter
+    # Plaintext formatter for quick manual review
     plain_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
 
     # Console handler for real-time feedback
@@ -47,7 +47,6 @@ logger = setup_logger()
 
 
 def log_event(level, message):
-    """Log an event with the specified level and message."""
     level = level.lower()
     if level == "info":
         logger.info(message)
@@ -57,6 +56,14 @@ def log_event(level, message):
         logger.error(message)
     else:
         logger.debug(message)
+
+
+def send_notification(message, level="info"):
+    """
+    Stub for sending notifications (e.g., email, Slack).
+    Currently, this function logs the notification message.
+    """
+    logger.info(f"[Notification] {message}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,105 @@
+{"timestamp": "2025-03-10T20:47:30.336379", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:34.347234", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:37.304394", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:37.304394", "level": "WARNING", "message": "Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})"}
+{"timestamp": "2025-03-10T20:47:37.423451", "level": "WARNING", "message": "Suspicious TTL from 52.86.73.80: 242 (expected: {64, 128, 255})"}
+{"timestamp": "2025-03-10T20:47:37.425958", "level": "WARNING", "message": "Suspicious TCP window from 52.86.73.80: 26883 (expected: {5840, 8192, 65535})"}
+{"timestamp": "2025-03-10T20:47:38.156359", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:39.157110", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:41.164328", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:42.348687", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:45.172840", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:53.184765", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:55.900027", "level": "INFO", "message": "SYN packet detected from 192.168.1.105"}
+{"timestamp": "2025-03-10T20:47:56.902560", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 11 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:47:57.469666", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 12 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:47:57.469666", "level": "WARNING", "message": "Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})"}
+{"timestamp": "2025-03-10T20:47:57.656587", "level": "WARNING", "message": "Suspicious TTL from 44.240.52.117: 237 (expected: {64, 128, 255})"}
+{"timestamp": "2025-03-10T20:47:57.656587", "level": "WARNING", "message": "Suspicious TCP window from 44.240.52.117: 26883 (expected: {5840, 8192, 65535})"}
+{"timestamp": "2025-03-10T20:47:58.904664", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 13 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:02.910536", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 14 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:04.329528", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 15 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:05.344031", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 16 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:07.347857", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 17 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:10.921621", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 18 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:11.354617", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 19 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:19.357062", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 20 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:22.105740", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:23.114585", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:25.116132", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:29.117572", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:32.262209", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:33.274996", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:35.288497", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:37.124274", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:39.296738", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:47.299871", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:49.521446", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:50.534746", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:52.538835", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:56.541690", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:58.360406", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:48:59.361370", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:01.363944", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:04.549476", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:05.366805", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:13.368942", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:16.849393", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:17.863010", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:19.868802", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:23.880024", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:27.054060", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:28.054511", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:30.061319", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:31.894629", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:34.064877", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:41.297022", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:41.298023", "level": "WARNING", "message": "Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})"}
+{"timestamp": "2025-03-10T20:49:41.411489", "level": "WARNING", "message": "Suspicious TTL from 44.213.153.77: 242 (expected: {64, 128, 255})"}
+{"timestamp": "2025-03-10T20:49:41.412012", "level": "WARNING", "message": "Suspicious TCP window from 44.213.153.77: 26883 (expected: {5840, 8192, 65535})"}
+{"timestamp": "2025-03-10T20:49:42.075923", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:45.694982", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:46.694618", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:48.696673", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:52.466736", "level": "WARNING", "message": "Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})"}
+{"timestamp": "2025-03-10T20:49:52.467231", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:52.469217", "level": "WARNING", "message": "Suspicious TTL from 18.165.171.92: 248 (expected: {64, 128, 255})"}
+{"timestamp": "2025-03-10T20:49:52.493885", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:52.494381", "level": "WARNING", "message": "Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})"}
+{"timestamp": "2025-03-10T20:49:52.494906", "level": "WARNING", "message": "Suspicious TTL from 18.165.171.46: 248 (expected: {64, 128, 255})"}
+{"timestamp": "2025-03-10T20:49:52.702117", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:54.203581", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:55.217662", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:49:57.220420", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:00.716515", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:01.224252", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:05.868715", "level": "WARNING", "message": "Suspicious TCP window from 192.168.1.105: 64240 (expected: {5840, 8192, 65535})"}
+{"timestamp": "2025-03-10T20:50:05.868715", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:05.870180", "level": "WARNING", "message": "Suspicious TTL from 18.165.171.104: 248 (expected: {64, 128, 255})"}
+{"timestamp": "2025-03-10T20:50:09.230653", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:13.601979", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:14.614949", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:16.620502", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:20.625979", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:22.292785", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:23.294967", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:25.297990", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:28.628592", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:29.306609", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:37.312640", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:40.800145", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:41.814447", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:43.814151", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:47.820745", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 25 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:48.453941", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:49.466353", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 26 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:51.471301", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 27 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:55.475601", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:50:55.829010", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 24 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:51:03.486610", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:51:09.636990", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:51:10.650682", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:51:12.652386", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:51:16.658003", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 21 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:51:17.430394", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 22 SYN packets in 60 seconds"}
+{"timestamp": "2025-03-10T20:51:18.430864", "level": "WARNING", "message": "Potential scan detected from 192.168.1.105: 23 SYN packets in 60 seconds"}
